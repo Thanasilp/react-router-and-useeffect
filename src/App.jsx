@@ -7,7 +7,7 @@ function App() {
     <div className="flex flex-col justify-center items-center min-h-screen">
       <FunctionComponent />
       <FunctionalComponent greetName={"World"} />
-      <ClassComponent greetName={"JSD7"} />
+      <ClassComponent greetName={"JSD8"} />
     </div>
   );
 }
